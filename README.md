@@ -1,1 +1,1 @@
-# posture_detection
+# Posture Detection Authentication System
